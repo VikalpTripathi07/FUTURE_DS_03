@@ -1,7 +1,7 @@
 # FUTURE_DS_02 - Customer Support Ticket Analysis
 
 > ✅ Task 2 Submission for Future Interns – Data Science & Analytics Internship  
-> 👨‍💻 Intern: Bhargab Jyoti Bhuyan  
+> 👨‍💻 Intern: Vikalp Tripathi
 > 📅 Date: May 2025
 
 ---
